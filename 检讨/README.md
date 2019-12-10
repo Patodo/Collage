@@ -8,7 +8,7 @@
 - Another way (or the above method are not available)
     1. Copy a criticism to `Word`.
     2. Enable macro of `Word`.
-    3. `Alt+F11` open VBA editor
+    3. <kbd>Alt</kbd>+<kbd>F11</kbd>` open VBA editor
     4. Creat an module
     5. Copy code and paste to module
     6. Run and completeshuom 
