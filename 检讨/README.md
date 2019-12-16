@@ -3,7 +3,7 @@
 - [Font library](http://pjg2020.com/save/font.zip)
 
 # Usage
-## Prepare handwriting font. If you have not font, Click the link above to download the example font library.
+> Prepare handwriting font. If you have not font, Click the link above to download the example font library.
 - Import way
     open `.bas` by `word`.
 - Another way (or the above method are not available)
