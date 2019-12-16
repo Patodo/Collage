@@ -16,14 +16,6 @@
 
 # Description
 ## Var meaning:
-- RealRandom
-```
-running without user data
-```
-- AllRandom....
-```
- Let all value random rather than use a user set value. If following status is not, it will use user setting value.
-```
 - Font
 ```
 font type. Must be setting by user, this array set as long as you can, make the font look different.
@@ -35,14 +27,6 @@ font size.
 - Location
 ```
 words' location in a line. It let different line had different location.
-```
-- LineBegin
-```
-begin location of a line.
-```
-- LineEnd
-```
-end location of a line. Those two value can make a tilt effort.
 ```
 - WordSpacing 
 ```
