@@ -1,9 +1,9 @@
 # Environment
 - Word 2019 Professional Pro
-- [Font set](http://pjg2020.com/save/font.zip)
+- [Font library](http://pjg2020.com/save/font.zip)
 
 # Usage
-    Notice : Array value must set by user. 
+## Prepare handwriting font. If you have not font, Click the link above to download the example font library.
 - Import way
     open `.bas` by `word`.
 - Another way (or the above method are not available)
