@@ -6,7 +6,7 @@ Sub Change_Font()
         VBA.Randomize
         Dim lt, temp
         i.Font.Name = Font(Int(VBA.Rnd * 1000) Mod (UBound(Font) + 1))
-        i.Font.Size = Size(Int(VBA.Rnd * 1000) Mod (UBound(Size) + 1))
+        i.Font.Size = VBA.Rnd * 5 + 10 
         i.Font.Position = VBA.Rnd * 6 - 3
         i.Font.Spacing = VBA.Rnd * 4 - 3
     Next
