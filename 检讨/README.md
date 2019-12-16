@@ -33,3 +33,17 @@ words' location in a line. It let different line had different location.
 space between two word.
 ```
 ### notice : line spacing must be keep up with different line.
+
+# For 桂电学子
+## 蓝色实验报告纸
+[桂电红纸](img/blue.png)
+|名称|高|宽|行间距|页眉|页脚|页边距(左右一致)| 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|值(单位cm)|29.7|21|1|3.9|3|1.5|
+
+## 桂电红纸
+[桂电红纸](img/red.png)
+|名称|高|宽|行间距|页眉|页脚|页边距(左右一致)| 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|值(单位cm)|26.3|19|1|4|1.5|1.5|
+
