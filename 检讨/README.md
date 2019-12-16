@@ -1,5 +1,6 @@
 # Environment
 - Word 2019 Professional Pro
+- [Font set](http://pjg2020.com/save/font.zip)
 
 # Usage
     Notice : Array value must set by user. 
